@@ -1,2 +1,2 @@
-# Simple-React-App---Meetup
+# Simple-React-App - Meetup
 
